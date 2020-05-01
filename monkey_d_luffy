@@ -1,0 +1,700 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="icon" href="https://lh3.googleusercontent.com/proxy/Vgk_BC_DPpiyjBSN8BhsNfRCx3tAdUNprvpkc0B9775-j-gZiJtD8_dRqACPYGo2u6gFqbQxhkylKwxvgafnRAql6Pf2rtdXPw7Y6Et_82gvBHct70tbKebKhGUn4KW-HSPxSV4mqXjECdEkLqtds82acP4yHrG_KACZRD9m">
+<img alt="Naruto Rasengan GIFs | Tenor" class="n3VNCb" src="https://media1.tenor.com/images/ad9c8d0e98c7f97ebde8f6edeb0e07b3/tenor.gif?itemid=13912409" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 433px; height: 241.715px; margin: 0px;">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+
+h6,h3 {
+  border: 1px solid red;
+}
+
+
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+</style><style>
+.switch {
+  position: relative;
+  display: inline-block;
+  width: 60px;
+  height: 34px;
+}
+
+.switch input {
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.slider {
+  position: absolute;
+  cursor: pointer;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: #ccc;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+.slider:before {
+  position: absolute;
+  content: "";
+  height: 26px;
+  width: 26px;
+  left: 4px;
+  bottom: 4px;
+  background-color: white;
+  -webkit-transition: .4s;
+  transition: .4s;
+}
+
+input:checked + .slider {
+  background-color: #2196F3;
+}
+
+input:focus + .slider {
+  box-shadow: 0 0 1px #2196F3;
+}
+
+input:checked + .slider:before {
+  -webkit-transform: translateX(26px);
+  -ms-transform: translateX(26px);
+  transform: translateX(26px);
+}
+
+/* Rounded sliders */
+.slider.round {
+  border-radius: 34px;
+}
+
+.slider.round:before {
+  border-radius: 50%;
+}
+</style>
+</head>
+<body>
+<h3> Problume related website CONTACT - one.piece.straw.hat.monkey.d.luffy@gmail.com
+    </h3><h6>Please give content if u have more contant about this topic - one.piece.straw.hat.monkey.d.luffy@gmail.com</h6>
+    <h6>Causion - website content could be wrong!!!!! please verify then read</h6>
+    <h6>contect CR- ashish if u want more notes</h6>
+    <h6>Warning-only for sec08</h6><h6>by and otaku - stay home stay safe</h6>
+
+<p>CLICK HERE to swith to dark or light mode<label class="switch">
+  <input type="checkbox"onclick="myFunction()">
+  <span class="slider round"></span>
+</label></p>
+
+<script>
+function myFunction() {
+   var element = document.body;
+   element.classList.toggle("dark-mode");
+}
+</script>
+
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Otaku!</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.pointer {cursor: pointer;}
+    h1{
+       color: ;
+       text-align:center;}
+
+       div{margin: 20px;
+       }
+       h2 {
+          color: red;margin: 50px;
+          }
+          h5 {
+             text-align:center;}
+
+
+
+   .target { display: none; }
+
+
+    h1 {
+      color: blue;
+      text-align:center;
+    }
+ table {color: blue;border: 6px solid purple;}
+ th {color: blue;border: 2px solid purple; padding: 7px; border-collapse: collapse;}
+ td{colour: blue;border: 1px solid purple;padding: 5px;text-align: center;}
+
+    table{width: 100%;}
+    td{background-color: lightblue;}
+    th{background-color:  lightblue;}
+
+    </style>
+      <h1>MATHS NOTES</h1>
+       <h5>source - Anupama mam</h5>
+</head>
+<body>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  <p>CLICK HERE &#9758; <a href="#first">To see student email ID of sec 08</a></p>
+  <body>
+
+    <div><h1> Unit-1: MATRIX</h1>      <h2>NOTES - 1</h2>
+    <a href="#" id="toggle-button"class="pointer">To show the TOPIC's of this Note 1</a>
+    <div class="target">
+    <ul>
+    <li>defination of matrix</li>
+    <li>order of a matrix</li>
+    <li>types of a matrix</li>
+    <ol>
+      <li>Column Matrix</li>
+    <li>Row Matrix</li>
+    <li>Square Matrix</li>
+    <li>Diagonal matrix</li>
+    <li>Scalar Matrix</li>
+    <li>Zero or Null Matrix</li>
+    <li>Unit or Identity Matrix</li>
+    <li>Rectangular Matrix</li>
+    </ol>
+    <li>equality of a matrix</li>
+    <li>opration on matrices</li>
+    <ol>
+      <li>addition of matrices</li>
+    <li>scalar matrices</li>
+    <li>difference of matrices</li>
+    </ol>
+    <li>properties of matrix addition</li>
+    <li>properties of scaler multiplication</li>
+    <li>product of two matrices</li>
+    <li>properties of matrix multiplication</li>
+    <li>transpose of matrix</li>
+    <ol><li>properties of transpose</li></ol>
+    <li>Symmetric matrix</li>
+      <li>skew-Symmetric matrix</li>
+        <li>determinant of matrix</li>
+        <li>minnors</li>
+        <li>cofactor</li>
+        <li>adjoint of matrix</li>
+        <li>singular matrix</li>
+        <li>non singular matrix</li>
+        <li>inverse of matrix</li>
+        <li>properties of adjoint and inverse of matrix</li>
+        </ul>.</div>
+
+         <p> <a href="\Users\Pallav\Otaku\maths\basics_of_matrices_hand_written_notes_1578564766730_.pdf">FOR download</a>.</p>
+
+
+
+
+  <h2>NOTES - 2</h2>
+  <ul><li>homogenious system of equation</li></ul>
+
+     <p> <a href="\Users\Pallav\Otaku\maths\homogeneous_system_of_equation_L6_1579519180778_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 3</h2>
+  <ul><li>solution of simultanious equations</li>
+  <li>types of linear equation</li>
+    <ol><li>constant</li>
+    <li>inconstant</li></ol>
+   <li>consistency of a system of linear equations</li></ul>
+
+    <p> <a href="\Users\Pallav\Otaku\maths\solution_of_system_of_equation_L4_1579519291603_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 4</h2>
+  <ul><li>Using Cramerâ€™s Rule to Solve Three Equations with Three Unknowns</li>
+  <li>Advantages and Disadvantages of Cramerâ€™s Rule</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\Cramers_Rule_3_by_3_Notes_1579604662736_.pdf">FOR download</a>.</p>
+  <h1> Unit-2: VECTOR SPACE-1</h1> <h2>NOTES - 5</h2>
+  <ul><li>vector space</li>
+  <li>group</Li>
+    <ol><li>abelian group</li>
+  <li>ring</li></ol>
+  <li>comutative ring</li>
+    <ol><li>ring with unity</li>
+    <li>unit element</li></ol>
+  <li>field</li>
+  <li>polynomial space</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\vector_spaceL7_1580296908220_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 6</h2>
+  <ul><li>subspace</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\subspace_1580719352667_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 7</h2>
+  <ul><li>Linear dependence and independence</li>
+  <li>Definition</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\linear_dependence_and_independence_1580728831958_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 8</h2>
+  <ul><li>linear dependence and independence question and answer</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L.D_and_L.I-12_1580811428333_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 9</h2>
+  <ul><li>basics</li>
+  <li>dimension</li>
+  <li>coordinate vectorspace</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L14_Basis_and_dimension_Contd.._1580901770882_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 10</h2>
+  <ul><li>linear transformation</li>
+  <ol><li>identity transformation</li>
+   <li> zero transformation</ol></li>
+  <li>kernal and range of a linear transformation</li></ul>
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L15_Lin_Trans_1581334029040_.pdf">FOR download</a>.</p>
+
+
+
+   <h2>NOTES - 11</h2>
+   <ul><li> kernal and range of a linear transformation</li>
+   <li> range and nulity of a linear maping</li></ul>
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\L16_Kernal_and_Range_1581334136165_.pdf">FOR download</a>.</p>
+
+
+
+   <h2>NOTES - 12</h2>
+   <ul><li> linear transformation question and answer</li></ul>
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\Matrix_associated_with_L.T_1581506400334_.pdf">FOR download</a>.</p>
+
+
+  <h2>NOTES - 13</h2>
+  <ul><li> composition of linear map</li></ul>
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\composition_of_map_1581930518954_.pdf">FOR download</a>.</p>
+
+
+  <h1> Unit-3: VECTOR SPACE - 2</h1> <h2>NOTES - 14</h2>
+  <ul><li> Eigenvectors and Eigenbases</li>
+   <li> Eigenvectors and Linear Independence.</li>
+  <li>  Eigenspaces.</li>
+   <li> Computing Eigenspaces.</li>
+  <li> Geometric Multiplicity.</li>
+   <li>Geometric Multiplicity and Eigenbases.</li>
+   <li>Algebraic Multiplicity.</li>
+   <li> Similar Matrices.</li></ul>
+
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\Eigen_value_Eigen_vector_1582022682842_.pdf">FOR download</a>.</p>
+
+
+
+  <h2>NOTES - 15</h2>
+   <ul> <li>introduction to Eigenvectors and Eigenvalues</li>
+   <li> computations of eigenvalues</li></ul>
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\introduction_of_eigen_values_&_eigen_vectors_1582110810632_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 16</h2>
+   <ul><li> Eigenvalues, Eigenvectors, and Eigenspaces</li>
+   <li> DEFINITION</li></ul>
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\Eigen_1582543886346_.pdf">FOR download</a>.</p>
+    <h2>NOTES - 17</h2>
+   <ul><li> Eigenspace</li></ul>
+
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\eigen_space_1582626327865_.pdf">FOR download</a>.</p>
+   <h2>NOTES - 18</h2>
+   <ul><li> examples of Eigenvectors and Eigenvalues</li></ul>
+
+
+    <p> <a href="\Users\Pallav\Otaku\maths\eigenvalue_&_eigen_vector_1582715517967_.pdf">FOR download</a>.</p>
+   <h2>NOTES - 19</h2>
+   <ul><li> Inner Product Spaces</li>
+   <li> defination</li>
+  <li>  Pythagorean Theorem</li>
+  <li>  Cauchy-Schwarz Inequality</li>
+   <li> and many theorem with there proof</li></ul>
+
+
+
+      <p> <a href="\Users\Pallav\Otaku\maths\inner_product_space_1583925925044_.pdf">FOR download</a>.</p>
+
+
+  <h2>NOTES - 20</h2>
+  <ul><li> Similar Matrices</li>
+  <li>  Diagonaligation</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\similar_matrices,_diagonilazation_1584357735750_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 21</h2>
+  <ul><li> Diagonaligation</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L27diagonalizable_1584439746959_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 22</h2>
+  <ul><li>orthogonal set of vactor</li>
+  <li>orthogonal basics</li>
+  <li>orthogonal set</li>
+  <li>orthogonal matrix</li></ul>
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L30orthogonal_set_1584531311902_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 23</h2>
+    <ul><li>orthogonal projection</li>
+    <li>the gram-schmidt process</li></ul>
+
+
+
+     <p> <a href="\Users\Pallav\Otaku\maths\Gram-Schmidt_Process_of_Orthogonalization_1584962044606_.pdf">FOR download</a>.</p>
+
+<h1> Unit-4: ORDINARY DIFFERENTIAL EQUATIONS</h1>
+  <h2>NOTES - 24</h2>
+    <ul><li>differential equations</li>
+    <li>ordinary differential equation</li>
+    <li>partial differential equations</li></ul>
+
+
+
+
+     <p> <a href="\Users\Pallav\Otaku\maths\1.L1ODE-_23-03-20_1585043040999_.pdf">FOR download</a>.</p>
+
+   <h2>NOTES - 25</h2>
+    <ul><li>exact differential equations</li></ul>
+
+
+
+     <p> <a href="\Users\Pallav\Otaku\maths\3._L2ODE-24-03-20_1585135033649_.pdf">FOR download</a>.</p>
+   <h2>NOTES - 26</h2>
+    <ul><li>rule to find partial equation</li></ul>
+
+
+     <p> <a href="\Users\Pallav\Otaku\maths\nonhomogeneous_LDE_with_constant_coefficient_1586261292003_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 27</h2><ul><li>homogenious linear differential equation</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\cauchy_euler_equations2_1586950094672_.pdf">FOR download</a>.</p>
+  <h1> Unit-5: PARTIAL DIFFERENTIAL EQUATION</h1> <h2>NOTES - 28</h2>
+  <ul><li>partial differentai equation</li>
+  <li>the sepration of variable method</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L40,41_1587381903412_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 29</h2>
+  <ul><li>vibrating string, wave equation </li>
+  <li>solution of one dimention wave equation</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L42,43_1587467621169_.pdf">FOR download</a>.</p>
+
+
+  <h2>NOTES - 30</h2>
+  <ul><li>one dimention wave equation</li></ul>
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L3_and_L4_1587554700662_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 31</h2>
+  <ul><li>heat condition</li></ul>
+
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\L40,41_1587381903412_.pdf">FOR download</a>.</p>
+
+  <h2>NOTES - 32</h2>
+  <ul><li>solution of heat equations</li></ul>
+
+
+   <p> <a href="\Users\Pallav\Otaku\maths\Heat_equation_1588068086036_.pdf">FOR download</a>.</p>
+  <h2>NOTES - 33</h2>
+  <ul><li>solution of wave equations</li></ul>
+
+   <p> <a href="\Users\Pallav\Otaku\maths\1D_wave_equ_3_1588164818228_.pdf">FOR download</a>.</p>
+
+
+
+   <script type="text/javascript">
+       document.getElementById('toggle-button').addEventListener('click', function () {
+   toggle(document.querySelectorAll('.target'));
+  });
+
+  function toggle (elements, specifiedDisplay) {
+  var element, index;
+
+  elements = elements.length ? elements : [elements];
+  for (index = 0; index < elements.length; index++) {
+   element = elements[index];
+
+   if (isElementHidden(element)) {
+     element.style.display = '';
+
+     // If the element is still hidden after removing the inline display
+     if (isElementHidden(element)) {
+       element.style.display = specifiedDisplay || 'block';
+     }
+   } else {
+     element.style.display = 'none';
+   }
+  }
+  function isElementHidden (element) {
+   return window.getComputedStyle(element, null).getPropertyValue('display') === 'none';
+  }
+  }
+   </script>
+ </body><body>
+
+    <div> <h2 id="first">1. Name & Emails of sec 08 students</h2>
+<table>
+<tr>
+  <th>NAME</th>
+<th>Email ID</th>
+  </tr>
+  <tr>
+    <td>RAJU YADAV</td>
+    <td>raju_kumar.scsebetch@galgotiasuniversity.edu.inn</td>
+    </tr>
+    <tr>
+    <td>NRRIZM THAKUR</td>
+    <td>nrrizm_thakur.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>RITWIK ROHAN</td>
+    <td>ritwik_rohan.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>ARUJ SHARMA</td>
+    <td>aruj_sharma.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>ARPIT SHARMA</td>
+    <td>arpit_sharma.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>PRIYANSHU CHAUDHARY</td>
+    <td>priyanshu_chaudhary.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>SHIVAM SRIVASTAVA</td>
+    <td>shivam_srivastava.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>MANISH KUMAR</td>
+    <td>manish_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>ATUL ANAND</td>
+    <td>atul_anand.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>KUMAR SATYAM</td>
+    <td>kumar_satyam.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>HARSH GUPTA</td>
+    <td>harsh_gupta.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>AYUSH SHARMA</td>
+    <td>ayush_sharma.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>ARPIT SHUKLA</td>
+    <td>arpit_shukla.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>SHITIJ SINGH DEOPA</td>
+    <td>shitij_singh.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>AKASH VERMA</td>
+    <td>akash_verma.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>PRENA SONI</td>
+    <td>prena_soni.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>UTKARSH JAISWAL</td>
+    <td>utkarsh_jaiswal.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>ANIL KUMAR</td>
+    <td>anil_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>DEEPAK KUMAR</td>
+    <td>deepak_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>PULANDRA KUMAR YADAV</td>
+    <td>pulandra_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+    <tr>
+    <td>AMAN TYAGI</td>
+    <td>aman_tyagi.scsebetch@galgotiasuniversity.edu.in</td>
+    </tr>
+      <tr>
+      <td>ASHISH CHOUDHARY</td>
+      <td>ashish_choudhary.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>PALLAV RAJ</td>
+      <td>pallav_raj.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>VISHNU G</td>
+      <td>vishnu.g.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>ADARSH CHAUDHARY</td>
+      <td>adarsh_chaushary.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>MD HUZAIFA</td>
+      <td>md_huzaifa.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>VISHAL BHARTI</td>
+      <td>vishal_bharti.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>RAUSHAN PATEL</td>
+      <td>raushan_patel.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>ABHINAV TRIVEDI</td>
+      <td>abhinav_trivedi.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>KOMAL PANDEY</td>
+      <td>komal_pandey.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>RAVI SHANKAR KUMAR</td>
+      <td>ravi_shankar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>ALOK KUMAR YADAV</td>
+      <td>alok_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>ANKIT</td>
+      <td>ankit1_scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>SHIVAM KUMAR</td>
+      <td>shivam_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>PRABHAT GUPTA</td>
+      <td>prabhat_gupta.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>URISHITA PANDITA</td>
+      <td>urshita_pandita.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>ABHISHEK VARSHNEY</td>
+      <td>abhishek_varshney.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+      <tr>
+      <td>MANISH YADAV
+      (19SCSE1010866)</td>
+      <td>manish_yadav.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>SUNNY PATEL</td>
+      <td>sunny_patel.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>KARAN KUMAR</td>
+      <td>karan_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>MD IMRAN RAIN</td>
+      <td>md_imran.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>ARUN KUMAR SINGH</td>
+      <td>arun_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>NABEEL KAMAL ANSARI</td>
+      <td>nabeel_kamal.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>MANISH YADAV
+      (19SOCE1010049)</td>
+      <td>manish_yadav1.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>ANISH KUNWAR</td>
+      <td>anish_kunwar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>OM PRAKASH KUMAR</td>
+      <td>om_prakash.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>AYUSHI KULSHRESTHA</td>
+      <td>ayushi_kulshrestha.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>PARV PANDEY</td>
+      <td>parv_pandey.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>JATIN SACHDEVA</td>
+      <td>jatin_sachdeva.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>MAYANK SHEKHAR</td>
+      <td>mayank_shekhR.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>DEVESH KUMAR</td>
+      <td>devesh_kumar.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>MAYANK AWASTHI</td>
+      <td>mayank_awasthi</td>
+      </tr><tr>
+      <td>PRANAV BALIYAN</td>
+      <td>pranav_baliyan.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr><tr>
+      <td>MOHD KAIF</td>
+      <td>mohd_kaif.scsebetch@galgotiasuniversity.edu.in</td>
+      </tr>
+</table>
+</div>
+
+
+</body>
+  </html>
